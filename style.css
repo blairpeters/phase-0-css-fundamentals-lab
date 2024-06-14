@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+nav{
+  text-align: center;
+}
+img{
+  display: block;
+  margin: auto;
+}
+figcaption{
+  text-align: center;
+}
+p{
+  text-align: center;
+  padding: 1 rem;
+
+}
+#details{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1 rem;
+  background-color: red;
+}
